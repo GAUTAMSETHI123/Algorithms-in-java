@@ -12,6 +12,9 @@ import java.util.Scanner;
 
 public class BubbleSort {
     public static void main(String[] args) {
+        System.out.println("enter the length of the array");
+        Scanner scanner = new Scanner(System.in);
+
 
 
     }
